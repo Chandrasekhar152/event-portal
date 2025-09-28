@@ -79,10 +79,11 @@ open index.html
 ## 🖼️ Project Preview
 
 Here’s a sneak peek of how the portal looks 👇  
-(Add a screenshot or live demo link if available)
+
 
 Example:  
-![Preview Screenshot](https://your-screenshot-link-here.com)
+<img width="1920" height="2508" alt="image" src="https://github.com/user-attachments/assets/caa535e9-72aa-48a9-8e93-3620244e1905" />
+
 
 ---
 
